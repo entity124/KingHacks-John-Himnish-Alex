@@ -19,7 +19,9 @@ Training the local AI model
 
 The full jupyter notebook for the AI model can be found in the models folder in this repository
 
-New transaction data is sent to the Watsonx server that contains a model of the above random forest machine learning. From there, the model detects whether or not the new transaction should be flagged and the bank information is updated accordingly.
+
+(New transaction data is sent to the Watsonx server that contains a model of the above random forest machine learning. From there, the model detects whether or not the new transaction should be flagged and the bank information is updated accordingly.)
+
 
 
 
